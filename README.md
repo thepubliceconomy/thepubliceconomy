@@ -1,6 +1,6 @@
 # The Public Economy
 
-**Exploring Public Institutions Through Economics, History and Evidence.**
+**Exploring Public Institutions Through Economics and Evidence.**
 
 *An independent research and educational initiative.*
 
