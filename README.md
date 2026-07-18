@@ -6,7 +6,13 @@
 
 ### *Exploring Public Institutions Through Economics and Evidence.*
 
-An independent research and educational initiative dedicated to producing open research, datasets, software, and educational resources on public institutions, economics, data science, and evidence-based policymaking.
+An independent research and educational initiative dedicated to advancing the understanding of public institutions through economics, data science, quantitative methods, and evidence-based policymaking.
+
+---
+
+**Under development**
+
+Founded on **15 July 2026**.
 
 ---
 
@@ -14,15 +20,27 @@ An independent research and educational initiative dedicated to producing open r
 
 - Public Economics
 - Political Economy
-- Public Policy
+- Public Finance
 - Data Science
-- Artificial Intelligence
 - Econometrics
-- Spatial Analysis (GIS)
 - Knowledge Discovery
+- Artificial Intelligence for Public Policy
+- Spatial Analysis (GIS)
+- Digital Government
 
 ---
 
-🚧 **Project currently under development.**
+## Technologies
 
-Founded on **15 July 2026**.
+`Python` • `R` • `Stata` • `SQL` • `Power BI` • `Tableau` • `QGIS`
+
+---
+
+## Connect
+
+- Substack — https://thepubliceconomy.substack.com
+- Instagram — https://instagram.com/thepubliceconomy
+- X — https://x.com/thepublicecon
+- Facebook — https://facebook.com/thepubliceconomy
+- Reddit — https://www.reddit.com/user/thepubliceconomy/
+- YouTube — https://www.youtube.com/@thepubliceconomy
